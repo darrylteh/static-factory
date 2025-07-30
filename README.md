@@ -79,5 +79,5 @@ After 6 turns, saplings evolve into young Inheritrees (`y`), entering a dormant 
 
 # Setup
 1. **Clone the repository**
-2. **Run** `src/Game/Application.java` to start the game
-3. **Controls**: Type and enter number and letter keys associated with actions as displayed in the interface
+2. **Run** `src/game/Application.java` to start the game
+3. **Controls**: Type and enter keys associated with actions as displayed in the interface
